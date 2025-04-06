@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Snowflake credentials (if using SnowSQL later)
+*.ini
