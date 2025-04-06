@@ -55,6 +55,5 @@ customer360-sql-project/
 
 **Anand Kumar Singh**  
 Senior Data Engineer | SQL | Snowflake | AWS | Python  
-[LinkedIn Profile](www.linkedin.com/in/anand-kumar-singh-830839ab)  
+[LinkedIn Profile](https://www.linkedin.com/in/anand-kumar-singh-830839ab)  
 [GitHub Projects](https://github.com/Anand-kumar4)
-
