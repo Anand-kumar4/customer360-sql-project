@@ -5,7 +5,7 @@ SELECT
     o.order_id,
     o.order_date,
     o.amount,
-    LAG(o.amount, 1) OVER (PARTITION BY o.user_id ORDER BY o.order_date)
+    LAG(o.amount, 1) OVER (PARTITION BY o.user_id ORDER BY o.order_date) AS previous_order_amount
 FROM
     PRODUCTANALYSIS.PUBLIC.ORDERS o
 ORDER BY 
